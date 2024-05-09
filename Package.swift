@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/arteries-common/OpenSSL.git", branch: "1.1.2200-privacy")
+        .package(url: "https://github.com/arteries-common/OpenSSL.git", branch: "1.1.2200-privacy.1")
 
     ],
     targets: [
